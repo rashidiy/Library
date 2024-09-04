@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Ali",
+        "member_id": "stu001",
+        "borrowed_books": []
+    },
+    {
+        "name": "sdmnf",
+        "member_id": "1",
+        "borrowed_books": []
+    },
+    {
+        "name": "1",
+        "member_id": "2",
+        "borrowed_books": []
+    }
+]

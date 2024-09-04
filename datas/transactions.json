@@ -1,0 +1,9 @@
+[
+    {
+        "transaction_id": 1,
+        "book": "9781491946008",
+        "member": "1",
+        "borrow_date": "2024-09-04",
+        "return_date": null
+    }
+]

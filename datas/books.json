@@ -1,0 +1,79 @@
+[
+    {
+        "title": "Python Programming",
+        "author": "John Zelle",
+        "ISBN": "9781590282410",
+        "publication_year": 2010,
+        "available": false
+    },
+    {
+        "title": "Learning Python",
+        "author": "Mark Lutz",
+        "ISBN": "9781449355739",
+        "publication_year": 2013,
+        "available": false
+    },
+    {
+        "title": "Automate the Boring Stuff with Python",
+        "author": "Al Sweigart",
+        "ISBN": "9781593275990",
+        "publication_year": 2015,
+        "available": true
+    },
+    {
+        "title": "Fluent Python",
+        "author": "Luciano Ramalho",
+        "ISBN": "9781491946008",
+        "publication_year": 2015,
+        "available": false
+    },
+    {
+        "title": "Python Crash Course",
+        "author": "Eric Matthes",
+        "ISBN": "9781593276034",
+        "publication_year": 2016,
+        "available": false
+    },
+    {
+        "title": "Effective Python",
+        "author": "Brett Slatkin",
+        "ISBN": "9780134034287",
+        "publication_year": 2015,
+        "available": false
+    },
+    {
+        "title": "Django for Beginners",
+        "author": "William S. Vincent",
+        "ISBN": "9781735467207",
+        "publication_year": 2018,
+        "available": false
+    },
+    {
+        "title": "Data Science from Scratch",
+        "author": "Joel Grus",
+        "ISBN": "9781491901427",
+        "publication_year": 2019,
+        "available": false
+    },
+    {
+        "title": "Deep Learning with Python",
+        "author": "Francois Chollet",
+        "ISBN": "9781617294433",
+        "publication_year": 2017,
+        "available": false
+    },
+    {
+        "title": "Introduction to Machine Learning with Python",
+        "author": "Andreas C. M\u0413\u0458ller",
+        "ISBN": "9781449369415",
+        "publication_year": 2016,
+        "available": false
+    },
+    {
+        "title": "Artificial Intelligence",
+        "author": "Stuart Russell",
+        "ISBN": "9780136042594",
+        "publication_year": 2010,
+        "available": false
+    }
+]
